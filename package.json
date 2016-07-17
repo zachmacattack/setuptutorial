@@ -1,0 +1,29 @@
+{
+    "author": "Zach",
+    "dependencies": {},
+    "keywords": [],
+    "name": "setup-tutorial",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Setup Tutorial",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4183015a-9763-4eb1-9d77-44becf6a005c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
